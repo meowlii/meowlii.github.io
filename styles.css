@@ -5,6 +5,7 @@ div.scrollmenu {
   }
   
   div.scrollmenu a {
+	font-family: 'Franklin Gothic Medium';
 	display: inline-block;
 	color: white;
 	text-align: center;
@@ -57,4 +58,15 @@ footer {
 	position: relative;
 	bottom: 0;
 	width: 100%;
+}
+
+.corpo {
+	font-size: 200%;
+
+}
+
+.chscr {
+	font-family: Arial;
+	font-size: 100%;
+
 }
