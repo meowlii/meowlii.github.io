@@ -72,3 +72,173 @@ footer {
 	font-size: 100%;
 
 }
+
+table {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.button {
+	background-color: #5b64d6;
+	font-family: Arial;
+	border: none;
+	color: white;
+	padding: 5px 10px;
+	justify-content: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+  }
+  
+  .button2 {
+	background-color: #5b64d6;
+	font-family: Arial;
+	border: none;
+	color: white;
+	padding: 5px 10px;
+	align-content: center;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+  }
+
+  .button3 {
+	background-color: #5b64d6;
+	font-family: Arial;
+	border: none;
+	color: white;
+	padding: 5px 10px;
+	align-content: center;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+  }
+
+  .button4 {
+	background-color: #5b64d6;
+	font-family: Arial;
+	border: none;
+	color: white;
+	padding: 5px 10px;
+	align-content: center;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+  }
+
+  .button5 {
+	background-color: #5b64d6;
+	font-family: Arial;
+	border: none;
+	color: white;
+	padding: 5px 10px;
+	align-content: center;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+  }
+
+  .button6 {
+	background-color: #5b64d6;
+	font-family: Arial;
+	border: none;
+	color: white;
+	padding: 5px 10px;
+	align-content: center;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+  }
+
+  .button7 {
+	background-color: #5b64d6;
+	font-family: Arial;
+	border: none;
+	color: white;
+	padding: 5px 10px;
+	align-content: center;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+  }
+
+  .button8 {
+	background-color: #5b64d6;
+	font-family: Arial;
+	border: none;
+	color: white;
+	padding: 5px 10px;
+	align-content: center;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+  }
+
+  .button9 {
+	background-color: #5b64d6;
+	font-family: Arial;
+	border: none;
+	color: white;
+	padding: 5px 10px;
+	align-content: center;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+  }
+
+  .button10 {
+	background-color: #5b64d6;
+	font-family: Arial;
+	border: none;
+	color: white;
+	padding: 5px 10px;
+	align-content: center;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+  }
+
+  .button11 {
+	background-color: #5b64d6;
+	font-family: Arial;
+	border: none;
+	color: white;
+	padding: 5px 10px;
+	align-content: center;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+  }
